@@ -1,4 +1,15 @@
 1. Clone a github
    git clone http://...
 
+2. Add Command to Gihub (Add New File to Github)
+   git add filename
 
+3. Commit Command to Github (Submit to Github)   
+   git commit filename -m "Message"
+
+4. Push Command to Github (Upload)
+   git push
+   user/password
+
+5. Pull Command to Github (Download)
+   git pull
