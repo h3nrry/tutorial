@@ -1,5 +1,6 @@
 #ch17_1.py
 
+#Import PIL can be used pip install Pillow
 from PIL import ImageColor
 
 print(ImageColor.getrgb("#0000ff"))
