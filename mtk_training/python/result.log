@@ -1,0 +1,20 @@
+total 1896
+drwxrwxr-x 3 acturus acturus    4096  九  14 00:07 .
+drwxrwxr-x 3 acturus acturus    4096  九  13 22:45 ..
+-rw-rw-r-- 1 acturus acturus     714  九  13 22:49 1_oo.py
+-rw-rw-r-- 1 acturus acturus     791  九  13 22:52 2_tk1.py
+-rw-rw-r-- 1 acturus acturus     906  九  13 23:28 3_tk2.py
+-rw-rw-r-- 1 acturus acturus    1115  九  13 23:37 4_tk_thread.py
+-rw-rw-r-- 1 acturus acturus     172  九  13 23:38 5_sub.py
+-rw-rw-r-- 1 acturus acturus    1858  九  13 23:40 6_table.py
+-rw-rw-r-- 1 acturus acturus    1756  九  13 23:43 7_sql.py
+-rw-rw-r-- 1 acturus acturus     525  九  13 23:59 8_gui.py
+-rw-r--r-- 1 acturus acturus   12288  九  13 23:44 data.sqlite
+-rw-rw-r-- 1 acturus acturus     542  九  14 00:06 gui1_0903.py
+-rw-rw-r-- 1 acturus acturus    1111  九  14 00:06 gui2_0903.py
+-rw-rw-r-- 1 acturus acturus     193  九  14 00:07 gui3_0903.py
+drwxrwxr-x 3 acturus acturus    4096  九  14 00:06 .idea
+-rw-rw-r-- 1 acturus acturus      79  九  13 23:38 out.txt
+-rw-r--r-- 1 acturus acturus     392  九  13 23:05 README.md
+-rw-rw-r-- 1 acturus acturus       0  九  14 00:07 result.log
+-rw-rw-r-- 1 acturus acturus 1860868  九  13 23:13 講義.pdf
