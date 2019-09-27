@@ -13,3 +13,5 @@ pip3.6 install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org --t
 ## 今日Demo
 
 Repl位址: [請點我](https://repl.it/@Elwing/0827day)
+
+https://github.com/Elwing-Chou/mtkpython2
