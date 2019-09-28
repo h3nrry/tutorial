@@ -1,8 +1,8 @@
-##Digit Recognizer source image
+## Digit Recognizer source image
 
-###Digit Recognizer
+### Digit Recognizer
 
-###Learn computer vision fundamentals with the famous MNIST data
+### Learn computer vision fundamentals with the famous MNIST data
 
 
 About this Competition
