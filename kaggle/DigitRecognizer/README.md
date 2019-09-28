@@ -1,7 +1,7 @@
 ## Digit Recognizer
 
 ### Learn computer vision fundamentals with the famous MNIST data
-https://www.kaggle.com/diamondsnake/digit-recognizer-cnn/data
+https://www.kaggle.com/diamondsnake/digit-recognizer-cnn
 
 #### About this Competition
 
