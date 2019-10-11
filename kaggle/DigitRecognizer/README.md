@@ -5,6 +5,8 @@ https://www.kaggle.com/diamondsnake/digit-recognizer-cnn
 
 #### About this Competition
 
+--> Use this link if github failed to open Jupyter Notebook file:
+    "https://nbviewer.jupyter.org/"
 
 The data files train.csv and test.csv contain gray-scale images of hand-drawn digits, from zero through nine.
 
