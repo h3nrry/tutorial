@@ -1,0 +1,5 @@
+git rm -r $1
+git commit $1 -m "$2"
+git push
+git pull
+
